@@ -1,11 +1,19 @@
 # ETH-AVAX-Module3 Types of Functions
-This program contains a smart contract which creates a token and then used Remix IDE to interact with it.
-
+The smart contract described in the provided program is a basic ERC-20 token contract created using Solidity, a programming language designed for Ethereum smart contracts. It includes functionalities for minting, burning, and transferring tokens, and is built on the foundation provided by OpenZeppelin, a popular library for secure and reusable smart contract code.
 # Description
-The TokenModule3 contract is an ERC20 token contract with additional ownership functionalities inherited from the Ownable contract of OpenZeppelin. It allows the contract owner to mint tokens, burn tokens, and transfer tokens to other addresses.
+The contract is named TokenModule3, and it inherits functionalities from:
+
+ERC20: The base contract that follows the ERC-20 token standard, which is the most common standard for fungible tokens on Ethereum and other EVM-compatible blockchains like Avalanche (AVAX).
+
+Ownable: This is an OpenZeppelin contract that ensures only the owner of the contract has special privileges, such as minting new tokens.
+The owner of this contract can mint new tokens, burn existing ones, and transfer tokens to other addresses. This makes it a simple yet powerful token contract that can be used in various applications like gaming, DeFi, or any ecosystem that needs a token.
 
 # Getting Started
-This contract includes functions and events designed for minting, burning, and transferring tokens.
+This smart contract includes:
+
+Minting Function: Allows the contract owner to create new tokens and allocate them to specific addresses.
+Burning Function: Enables any user to destroy a certain number of their own tokens, reducing the total supply.
+Transferring Function: Allows users to send tokens from their address to another address, following the standard ERC-20 transfer process.
 
 # Prerequisites
 Solidity ^0.8.0 An Ethereum development environment (e.g., Remix IDE) A basic understanding of Solidity and smart contract development.
