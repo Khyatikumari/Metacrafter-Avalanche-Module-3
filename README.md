@@ -12,7 +12,9 @@ The owner of this contract can mint new tokens, burn existing ones, and transfer
 This smart contract includes:
 
 Minting Function: Allows the contract owner to create new tokens and allocate them to specific addresses.
+
 Burning Function: Enables any user to destroy a certain number of their own tokens, reducing the total supply.
+
 Transferring Function: Allows users to send tokens from their address to another address, following the standard ERC-20 transfer process.
 
 # Prerequisites
