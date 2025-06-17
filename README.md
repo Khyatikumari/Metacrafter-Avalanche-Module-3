@@ -139,6 +139,7 @@ This project is licensed under the MIT License
 | [0015-3sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -404,4 +405,8 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
