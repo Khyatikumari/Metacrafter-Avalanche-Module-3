@@ -68,6 +68,7 @@ This project is licensed under the MIT License
 | [0012-integer-to-roman](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0826-soup-servings) |
@@ -265,6 +266,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
@@ -313,6 +315,7 @@ This project is licensed under the MIT License
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2478-longest-nice-subarray) |
