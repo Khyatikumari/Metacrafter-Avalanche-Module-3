@@ -94,6 +94,7 @@ This project is licensed under the MIT License
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -239,6 +240,7 @@ This project is licensed under the MIT License
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -542,4 +544,9 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
