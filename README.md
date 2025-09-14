@@ -117,6 +117,7 @@ This project is licensed under the MIT License
 | [0679-24-game](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1006-vowel-spellchecker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -204,6 +205,7 @@ This project is licensed under the MIT License
 | [0797-rabbits-in-forest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -233,6 +235,7 @@ This project is licensed under the MIT License
 | [0022-generate-parentheses](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
+| [1006-vowel-spellchecker](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
