@@ -113,6 +113,7 @@ This project is licensed under the MIT License
 | [0036-valid-sudoku](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0416-partition-equal-subset-sum) |
@@ -312,6 +313,7 @@ This project is licensed under the MIT License
 | [0010-regular-expression-matching](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0826-soup-servings) |
