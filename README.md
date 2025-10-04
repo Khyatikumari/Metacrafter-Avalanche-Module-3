@@ -111,6 +111,7 @@ This project is licensed under the MIT License
 | [0015-3sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0088-merge-sorted-array) |
@@ -193,6 +194,7 @@ This project is licensed under the MIT License
 | [0016-3sum-closest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0611-valid-triangle-number) |
