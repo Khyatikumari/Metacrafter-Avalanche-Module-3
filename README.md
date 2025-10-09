@@ -195,6 +195,7 @@ This project is licensed under the MIT License
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ This project is licensed under the MIT License
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2479-meeting-rooms-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +427,7 @@ This project is licensed under the MIT License
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
