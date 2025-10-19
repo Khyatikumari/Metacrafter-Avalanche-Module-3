@@ -296,6 +296,7 @@ This project is licensed under the MIT License
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -504,6 +505,7 @@ This project is licensed under the MIT License
 | [0417-pacific-atlantic-water-flow](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -514,6 +516,7 @@ This project is licensed under the MIT License
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2793-count-the-number-of-complete-components) |
 ## Sorting
@@ -604,6 +607,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2998-count-symmetric-integers) |
