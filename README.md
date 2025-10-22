@@ -197,6 +197,7 @@ This project is licensed under the MIT License
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -354,6 +355,7 @@ This project is licensed under the MIT License
 | [3483-alternating-groups-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -436,6 +438,7 @@ This project is licensed under the MIT License
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
@@ -458,6 +461,7 @@ This project is licensed under the MIT License
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -555,6 +559,7 @@ This project is licensed under the MIT License
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
