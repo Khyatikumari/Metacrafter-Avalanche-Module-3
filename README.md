@@ -156,6 +156,7 @@ This project is licensed under the MIT License
 | [2023-design-movie-rental-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -238,6 +239,7 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2479-meeting-rooms-iii) |
@@ -266,6 +268,7 @@ This project is licensed under the MIT License
 | [1834-minimum-number-of-people-to-teach](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -676,6 +679,7 @@ This project is licensed under the MIT License
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3678-design-task-manager) |
 ## Memoization
