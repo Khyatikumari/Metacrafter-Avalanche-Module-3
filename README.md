@@ -180,6 +180,7 @@ This project is licensed under the MIT License
 | [2529-range-product-queries-of-powers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2681-put-marbles-in-bags) |
@@ -385,6 +386,7 @@ This project is licensed under the MIT License
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2478-longest-nice-subarray) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -451,6 +453,7 @@ This project is licensed under the MIT License
 | [1834-minimum-number-of-people-to-teach](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1917-maximum-average-pass-ratio) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2689-rearranging-fruits) |
@@ -472,6 +475,7 @@ This project is licensed under the MIT License
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -499,6 +503,7 @@ This project is licensed under the MIT License
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -526,6 +531,7 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
