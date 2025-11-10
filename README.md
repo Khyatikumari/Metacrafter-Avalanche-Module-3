@@ -226,6 +226,7 @@ This project is licensed under the MIT License
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
@@ -310,6 +311,7 @@ This project is licensed under the MIT License
 | [3678-design-task-manager](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3678-design-task-manager) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -465,6 +467,7 @@ This project is licensed under the MIT License
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -641,12 +644,14 @@ This project is licensed under the MIT License
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
