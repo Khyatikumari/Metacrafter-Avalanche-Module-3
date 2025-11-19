@@ -174,6 +174,7 @@ This project is licensed under the MIT License
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2308-divide-array-into-equal-pairs) |
@@ -264,6 +265,7 @@ This project is licensed under the MIT License
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -298,6 +300,7 @@ This project is licensed under the MIT License
 | [2174-next-greater-numerically-balanced-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2479-meeting-rooms-iii) |
@@ -620,6 +623,7 @@ This project is licensed under the MIT License
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2588-maximum-number-of-points-from-grid-queries) |
