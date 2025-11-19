@@ -644,6 +644,7 @@ This project is licensed under the MIT License
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1612-avoid-flood-in-the-city) |
@@ -725,6 +726,7 @@ This project is licensed under the MIT License
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
@@ -738,6 +740,7 @@ This project is licensed under the MIT License
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0023-merge-k-sorted-lists) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
@@ -752,6 +755,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0023-merge-k-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
