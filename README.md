@@ -173,6 +173,7 @@ This project is licensed under the MIT License
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -495,6 +496,7 @@ This project is licensed under the MIT License
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -516,6 +518,7 @@ This project is licensed under the MIT License
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -651,6 +654,7 @@ This project is licensed under the MIT License
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2392-successful-pairs-of-spells-and-potions) |
