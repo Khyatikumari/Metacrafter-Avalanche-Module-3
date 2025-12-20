@@ -67,6 +67,7 @@ This project is licensed under the MIT License
 | [0009-palindrome-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0029-divide-two-integers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0326-power-of-three) |
@@ -607,6 +608,7 @@ This project is licensed under the MIT License
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
