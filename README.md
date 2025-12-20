@@ -159,6 +159,7 @@ This project is licensed under the MIT License
 | [0797-rabbits-in-forest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -382,6 +383,7 @@ This project is licensed under the MIT License
 | [0166-fraction-to-recurring-decimal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1264-maximum-number-of-words-you-can-type) |
