@@ -324,6 +324,7 @@ This project is licensed under the MIT License
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0169-majority-element) |
+| [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0900-reordered-power-of-2) |
@@ -389,6 +390,7 @@ This project is licensed under the MIT License
 | [0165-compare-version-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -622,6 +624,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0029-divide-two-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -796,6 +799,7 @@ This project is licensed under the MIT License
 | [0022-generate-parentheses](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
