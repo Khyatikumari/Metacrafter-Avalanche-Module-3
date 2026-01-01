@@ -68,6 +68,7 @@ This project is licensed under the MIT License
 | [0012-integer-to-roman](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0326-power-of-three) |
@@ -140,6 +141,7 @@ This project is licensed under the MIT License
 | [0027-remove-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0118-pascals-triangle) |
