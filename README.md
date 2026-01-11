@@ -144,6 +144,7 @@ This project is licensed under the MIT License
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0120-triangle) |
@@ -448,6 +449,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0036-valid-sudoku](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
@@ -501,6 +503,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -795,6 +798,7 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2211-count-collisions-on-a-road) |
@@ -804,6 +808,7 @@ This project is licensed under the MIT License
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3001-apply-operations-to-maximize-score) |
