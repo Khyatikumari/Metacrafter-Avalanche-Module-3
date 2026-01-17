@@ -236,6 +236,7 @@ This project is licensed under the MIT License
 | [2699-count-the-number-of-fair-pairs](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -373,6 +374,7 @@ This project is licensed under the MIT License
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -871,6 +873,7 @@ This project is licensed under the MIT License
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
