@@ -173,6 +173,7 @@ This project is licensed under the MIT License
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -766,6 +767,7 @@ This project is licensed under the MIT License
 | [0611-valid-triangle-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0900-reordered-power-of-2) |
+| [1200-minimum-absolute-difference](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
