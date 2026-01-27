@@ -722,6 +722,7 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -815,6 +816,7 @@ This project is licensed under the MIT License
 | [2681-put-marbles-in-bags](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2681-put-marbles-in-bags) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3678-design-task-manager) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3863-power-grid-maintenance](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3863-power-grid-maintenance) |
@@ -979,4 +981,8 @@ This project is licensed under the MIT License
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
