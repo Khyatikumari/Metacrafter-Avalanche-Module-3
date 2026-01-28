@@ -286,6 +286,7 @@ This project is licensed under the MIT License
 | [3625-count-number-of-trapezoids-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -482,6 +483,7 @@ This project is licensed under the MIT License
 | [2625-increment-submatrices-by-one](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Number Theory
 |  |
@@ -555,6 +557,7 @@ This project is licensed under the MIT License
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
