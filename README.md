@@ -289,6 +289,7 @@ This project is licensed under the MIT License
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
