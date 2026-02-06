@@ -289,6 +289,7 @@ This project is licensed under the MIT License
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-trionic-array-ii) |
@@ -523,6 +524,7 @@ This project is licensed under the MIT License
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -817,6 +819,7 @@ This project is licensed under the MIT License
 | [3606-coupon-code-validator](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
