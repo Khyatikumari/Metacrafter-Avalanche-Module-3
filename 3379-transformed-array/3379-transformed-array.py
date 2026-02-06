@@ -1,20 +1,11 @@
 class Solution:
-    def constructTransformedArray(self, A: List[int]) -> List[int]:
-        n = len(A)
-        OFFSET = 1 << 7
-        MASK = (1 << 8) - 1
-
-        for i in range(n):
-            A[i] += OFFSET
-
-        for i in range(n):
-            cur = A[i] - OFFSET
-            idx = ((i + cur) % n + n) % n
-            val = A[idx] & MASK
-            A[i] |= val << 8
-
-        for i in range(n):
-            A[i] = (A[i] >> 8) - OFFSET
-
-        return A
-    
+    def constructTransformedArray(self, nums: List[int]) -> List[int]:
+        res = []
+        for index, value in enumerate(nums):
+            if value > 0:
+                res.append(nums[(index+value) % len(nums)])
+            elif value < 0:
+                res.append(nums[(index + len(nums) - (abs(value) % len(nums))) % len(nums)])
+            else:
+                res.append(0)
+        return res
