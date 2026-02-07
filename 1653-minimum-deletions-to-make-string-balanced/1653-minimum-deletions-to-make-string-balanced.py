@@ -9,4 +9,4 @@ class Solution:
                 res += 1
                 count -= 1
         
-        return res    
+        return res
