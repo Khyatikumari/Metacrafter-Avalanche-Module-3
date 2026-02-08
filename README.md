@@ -751,6 +751,7 @@ This project is licensed under the MIT License
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0110-balanced-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -876,6 +877,7 @@ This project is licensed under the MIT License
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -885,6 +887,7 @@ This project is licensed under the MIT License
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
