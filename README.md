@@ -601,6 +601,7 @@ This project is licensed under the MIT License
 | [0797-rabbits-in-forest](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0797-rabbits-in-forest) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -758,6 +759,7 @@ This project is licensed under the MIT License
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2092-find-all-people-with-secret) |
@@ -882,6 +884,7 @@ This project is licensed under the MIT License
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -892,6 +895,7 @@ This project is licensed under the MIT License
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -938,6 +942,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -1021,4 +1026,8 @@ This project is licensed under the MIT License
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
