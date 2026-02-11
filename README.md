@@ -300,6 +300,7 @@ This project is licensed under the MIT License
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -413,6 +414,7 @@ This project is licensed under the MIT License
 | [3678-design-task-manager](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3678-design-task-manager) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3863-power-grid-maintenance) |
@@ -690,6 +692,7 @@ This project is licensed under the MIT License
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
@@ -948,6 +951,7 @@ This project is licensed under the MIT License
 | [1382-balance-a-binary-search-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -958,6 +962,7 @@ This project is licensed under the MIT License
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
