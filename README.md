@@ -704,6 +704,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0029-divide-two-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -912,6 +913,7 @@ This project is licensed under the MIT License
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
