@@ -324,6 +324,7 @@ This project is licensed under the MIT License
 | [0165-compare-version-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -434,6 +435,7 @@ This project is licensed under the MIT License
 | [0165-compare-version-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0768-partition-labels) |
