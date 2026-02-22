@@ -710,6 +710,7 @@ This project is licensed under the MIT License
 | [0401-binary-watch](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2059-unique-length-3-palindromic-subsequences) |
