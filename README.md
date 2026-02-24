@@ -775,6 +775,7 @@ This project is licensed under the MIT License
 | [0417-pacific-atlantic-water-flow](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -901,6 +902,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -912,6 +914,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1339-maximum-product-of-splitted-binary-tree) |
