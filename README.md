@@ -181,6 +181,7 @@ This project is licensed under the MIT License
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -669,6 +670,7 @@ This project is licensed under the MIT License
 | ------- |
 | [0169-majority-element](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0900-reordered-power-of-2) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2308-divide-array-into-equal-pairs) |
@@ -714,6 +716,7 @@ This project is licensed under the MIT License
 | [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -820,6 +823,7 @@ This project is licensed under the MIT License
 | [1200-minimum-absolute-difference](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2054-two-best-non-overlapping-events) |
