@@ -460,6 +460,7 @@ This project is licensed under the MIT License
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
