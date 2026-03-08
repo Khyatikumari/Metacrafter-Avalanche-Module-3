@@ -1,13 +1,26 @@
 class Solution {
 public:
+    string b(int r,int q){
+        string t="";
+        while(r!=0){
+            int y=r%2;
+            r=r/2;
+            t=to_string(y)+t;
+        }
+        while(t.size()<q){
+            t='0'+t;
+        }
+        return t;
+    }
     string findDifferentBinaryString(vector<string>& nums) {
-        unordered_set<string> s(nums.begin(), nums.end());
-        int n = nums.size();
-        
-        for (int i = 0; i < (1 << n); i++) { 
-            string binary = bitset<16>(i).to_string().substr(16 - n);
-            if (!s.count(binary)) {
-                return binary;
+        int j=0;
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<=nums.size();i++){
+            string c=b(i,nums[0].size());
+            if(j<nums.size()&&c==nums[j]){
+                j++;
+            }else{
+                return c;
             }
         }
         return "";
