@@ -738,6 +738,7 @@ This project is licensed under the MIT License
 | [0693-binary-number-with-alternating-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
