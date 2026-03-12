@@ -1,80 +1,72 @@
-class DSU:
-    def __init__(self, n):
-        self.parent = list(range(n))
-        self.rank = [0] * n
-        self.components = n
-
-    def find(self, x):
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])
-        return self.parent[x]
-
-    def unite(self, a, b):
-        pa = self.find(a)
-        pb = self.find(b)
-
-        if pa == pb:
-            return False
-
-        if self.rank[pa] < self.rank[pb]:
-            pa, pb = pb, pa
-
-        self.parent[pb] = pa
-
-        if self.rank[pa] == self.rank[pb]:
-            self.rank[pa] += 1
-
-        self.components -= 1
-        return True
-
-
 class Solution:
-    def canAchieve(self, n, edges, k, x):
-        dsu = DSU(n)
+    def maxStability(self, n: int, edges: List[List[int]], k: int) -> int:
+        parent = list(range(n))
+        size = [1] * n
 
-        # Mandatory edges
-        for u, v, s, must in edges:
-            if must == 1:
-                if s < x:
-                    return False
-                if not dsu.unite(u, v):
-                    return False
+        def find_set(v):
+            if parent[v] == v:
+                return v
+            parent[v] = find_set(parent[v])
+            return parent[v]
+        
+        def union_sets(a, b):
+            a = find_set(a)
+            b = find_set(b)
 
-        # Free optional edges
-        for u, v, s, must in edges:
-            if must == 0 and s >= x:
-                dsu.unite(u, v)
-
-        # Upgrade edges
-        used_upgrades = 0
-
-        for u, v, s, must in edges:
-            if must == 0 and s < x and 2 * s >= x:
-                if dsu.unite(u, v):
-                    used_upgrades += 1
-                    if used_upgrades > k:
-                        return False
-
-        return dsu.components == 1
-
-    def maxStability(self, n, edges, k):
-        # Check mandatory edges cycle
-        dsu = DSU(n)
-        for u, v, s, must in edges:
-            if must == 1:
-                if not dsu.unite(u, v):
-                    return -1
-
-        low, high = 1, 200000
-        ans = -1
-
-        while low <= high:
-            mid = (low + high) // 2
-
-            if self.canAchieve(n, edges, k, mid):
-                ans = mid
-                low = mid + 1
+            if a != b:
+                if size[a] < size[b]:
+                    a, b = b, a
+                parent[b] = a
+                size[a] += size[b]
+                return True
             else:
-                high = mid - 1
+                return False
 
-        return ans   
+        def same_set(a, b):
+            a = find_set(a)
+            b = find_set(b)
+            return a != b
+        
+        components = n
+        min_stability = float("inf")
+        
+        optional = []
+        for index, edge in enumerate(edges):
+            if edge[3]:
+                # edge must be included
+                if union_sets(edge[0], edge[1]):
+                    components -= 1
+                    min_stability = min(min_stability, edge[2])
+                else:
+                    # the edges that have to be included form a cycle
+                    return -1
+            else:
+                optional.append(index)
+
+        if components == 1:
+            # no more edges can be added
+            return min_stability
+
+        # sort optional edges by stability
+        optional.sort(key=lambda x: edges[x][2], reverse=True)
+
+        stabilities = []
+        for index in optional:
+            edge = edges[index]
+            if union_sets(edge[0], edge[1]):
+                # edge was added
+                components -= 1
+                stabilities.append(edge[2])
+
+                if components == 1:
+                    break
+
+        if components > 1:
+            # cannot connect tree
+            return -1
+
+        # use upgrades on edges with smallest stability
+        for i in range(1, min(len(stabilities), k) + 1):
+            stabilities[-i] *= 2
+
+        return min(min(stabilities), min_stability)
