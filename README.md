@@ -88,6 +88,7 @@ This project is licensed under the MIT License
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1011,6 +1012,7 @@ This project is licensed under the MIT License
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3719-longest-balanced-subarray-i) |
@@ -1039,6 +1041,7 @@ This project is licensed under the MIT License
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2169-simple-bank-system) |
