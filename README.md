@@ -92,6 +92,7 @@ This project is licensed under the MIT License
 | [1636-number-of-substrings-with-only-1s](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -201,6 +202,7 @@ This project is licensed under the MIT License
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -514,6 +516,7 @@ This project is licensed under the MIT License
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1628-count-submatrices-with-all-ones) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1975-maximum-matrix-sum) |
@@ -711,6 +714,7 @@ This project is licensed under the MIT License
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -854,6 +858,7 @@ This project is licensed under the MIT License
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2092-find-all-people-with-secret) |
@@ -890,6 +895,7 @@ This project is licensed under the MIT License
 | [0407-trapping-rain-water-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/2054-two-best-non-overlapping-events) |
