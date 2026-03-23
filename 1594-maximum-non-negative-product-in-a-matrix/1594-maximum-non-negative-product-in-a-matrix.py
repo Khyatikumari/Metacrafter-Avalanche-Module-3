@@ -1,20 +1,57 @@
+from math import inf
+MOD = int(1e9+7)
+
 class Solution:
     def maxProductPath(self, grid: List[List[int]]) -> int:
-        r, c, MOD=len(grid), len(grid[0]), 10**9+7
-        dp=[[[0]*2 for _ in range(c)] for _ in range(r)]
-
-        p=dp[0][0][0]=dp[0][0][1]=grid[0][0]
-        for j in range(1, c):
-            p*=grid[0][j]
-            dp[0][j][0]=dp[0][j][1]=p
-
-        p=grid[0][0]
-        for i in range(1, r):
-            p*=grid[i][0]
-            dp[i][0][0]=dp[i][0][1]=p
-            for j in range(1, c):
-                x=grid[i][j]
-                xx=(x*dp[i][j-1][0], x*dp[i][j-1][1], x*dp[i-1][j][0], x*dp[i-1][j][1])
-                dp[i][j][0], dp[i][j][1]=min(xx), max(xx)
-        ans=dp[r-1][c-1][1]
-        return -1 if ans<0 else ans%MOD     
+        prev_row = [[inf, -inf] for _ in grid[0]]
+        if grid[0][0] < 0:
+            prev_row[0][0] = grid[0][0]
+        else:
+            prev_row[0][1] = grid[0][0]
+        for j in range(1, len(grid[0])):
+            val = grid[0][j]
+            if val < 0:
+                prev_row[j][0] = val * prev_row[j-1][1]
+                prev_row[j][1] = val * prev_row[j-1][0]
+            elif val > 0:
+                prev_row[j][0] = val * prev_row[j-1][0]
+                prev_row[j][1] = val * prev_row[j-1][1]
+            else:
+                prev_row[j][0] = 0
+                prev_row[j][1] = 0
+        current_row = [[inf, -inf] for _ in grid[0]]
+        for i in range(1, len(grid)):
+            #print(prev_row)
+            row = grid[i]
+            val = row[0]
+            if val < 0:
+                current_row[0][0] = val * prev_row[0][1]
+                current_row[0][1] = val * prev_row[0][0]
+            elif val > 0:
+                current_row[0][0] = val * prev_row[0][0]
+                current_row[0][1] = val * prev_row[0][1]
+            else:
+                current_row[0][0] = val * 0
+                current_row[0][1] = val * 0
+            for j in range(1, len(row)):
+                val = row[j]
+                if val == 0:
+                    current_row[j][0] = 0
+                    current_row[j][1] = 0
+                else:
+                    most_neg = min(prev_row[j][0], current_row[j-1][0])
+                    most_pos = max(prev_row[j][1], current_row[j-1][1])
+                    if val < 0:
+                        current_row[j][0] = val * most_pos
+                        current_row[j][1] = val * most_neg
+                    else:
+                        current_row[j][0] = val * most_neg
+                        current_row[j][1] = val * most_pos
+            next_row = prev_row
+            prev_row = current_row
+            current_row = next_row
+        #print(prev_row)
+        prod = prev_row[-1][1]
+        if prod >= 0:
+            return prod % MOD
+        return -1
