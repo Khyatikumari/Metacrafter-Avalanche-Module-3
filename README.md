@@ -290,6 +290,7 @@ This project is licensed under the MIT License
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -424,6 +425,7 @@ This project is licensed under the MIT License
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-find-the-count-of-good-integers) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3583-count-special-triplets) |
@@ -545,6 +547,7 @@ This project is licensed under the MIT License
 | [3227-find-missing-and-repeated-values](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -752,6 +755,7 @@ This project is licensed under the MIT License
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1026,6 +1030,7 @@ This project is licensed under the MIT License
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-find-the-count-of-good-integers) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Khyatikumari/Metacrafter-Avalanche-Module-3/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
